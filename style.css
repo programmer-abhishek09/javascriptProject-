@@ -1,0 +1,85 @@
+.container {
+    display: flex;
+    gap: 10px;
+}
+
+#blue {
+    width: 100px;
+    /* Adjust width as needed */
+    height: 50px;
+    /* Adjust height as needed */
+    background-color: blue;
+    /* Change color as needed */
+    border: 2px solid black;
+    /* Border color and width */
+    padding: 10px;
+    /* Inner spacing */
+    text-align: center;
+    /* Align text inside */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#red {
+    width: 100px;
+    /* Adjust width as needed */
+    height: 50px;
+    /* Adjust height as needed */
+    background-color: red;
+    /* Change color as needed */
+    border: 2px solid black;
+    /* Border color and width */
+    padding: 10px;
+    /* Inner spacing */
+    text-align: center;
+    /* Align text inside */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#yellow {
+    width: 100px;
+    /* Adjust width as needed */
+    height: 50px;
+    /* Adjust height as needed */
+    background-color: yellow;
+    /* Change color as needed */
+    border: 2px solid black;
+    /* Border color and width */
+    padding: 10px;
+    /* Inner spacing */
+    text-align: center;
+    /* Align text inside */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#green {
+    width: 100px;
+    /* Adjust width as needed */
+    height: 50px;
+    /* Adjust height as needed */
+    background-color: green;
+    /* Change color as needed */
+    border: 2px solid black;
+    /* Border color and width */
+    padding: 10px;
+    /* Inner spacing */
+    text-align: center;
+    /* Align text inside */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+
+}
